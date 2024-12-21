@@ -2,12 +2,6 @@ Hi, I am Rupam Modak
 
 💫 **About Me:**  
 🔭 I’m currently working on Full-Stack Development  
-
----
-
-🌐 **Socials:**  
-[LinkedIn](#)  
-
 ---
 
 # 💻 **Tech Stack:**
