@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi, I am Rupam Modak  
 
-<!--
-**developerrup/developerrup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💫 **About Me:**  
+🔭 I’m currently working on Full-Stack Development  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Socials:**  
+[LinkedIn](#)  
+
+---
+
+# 💻 **Tech Stack:**
+- **Languages:** C, Java, JavaScript  
+- **Frontend:** HTML5, CSS3, Bootstrap, TailwindCSS, React, Vite  
+- **Backend:** Express.js, MongoDB  
+- **Tools & Platforms:** NPM, GIT  
+
+---
+
+📊 **GitHub Stats:**  
+![GitHub Stats](#)  
+
+---
+
+🏆 **GitHub Trophies**  
+![Holopin Badges](#)  
+
+---
+
+### Additional Account:
+This is my additional account
+[DeveloperRup](https://github.com/developerrup)
